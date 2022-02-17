@@ -1,0 +1,5 @@
+Palacsinta|Lorem ip sum, dolor sit amet|5|5
+
+Muffin|Dolor ip, amet, sum lorem|5|2
+
+Gulyás leves|Lorem dolor sum ip|5|5
